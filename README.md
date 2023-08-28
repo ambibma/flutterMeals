@@ -1,6 +1,7 @@
-# flutter_meals
+# Flutter Meals
 
-A new Flutter project.
+A flutter project built to solidify knowledge in learning multi-screen navigation and managing
+state.
 
 ## Getting Started
 
