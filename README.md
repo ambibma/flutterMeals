@@ -2,6 +2,7 @@
 
 A flutter project built to solidify knowledge in learning multi-screen navigation and managing
 state.
+<img src= './meals1.png' width=200> <img src= './meals2.png' width=200> <img src= './meals3.png' width=200> <img src= './meals4.png' width=200>
 
 ## Getting Started
 
